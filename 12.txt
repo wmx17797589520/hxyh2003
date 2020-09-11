@@ -1,0 +1,1 @@
+update stu set name="svs"
